@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pokepedia</string>
+    <string name="home">Home</string>
+    <string name="traits">Traits</string>
+    <string name="moves">Moves</string>
+    <string name="illustrations">Illustrations</string>
+    <string name="search">Search</string>
+    <string name="choose_a_pokemon_generation">Choose a Pokemon Generation!</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="types">Types</string>
+    <string name="abilities">Abilities</string>
+    <string name="color">Color</string>
+    <string name="shape">Shape</string>
+    <string name="evolves_from">Evolves from</string>
+    <string name="none">-----</string>
+    <string name="heightVal"> %1$.1f m</string>
+    <string name="weightVal"> %1$.1f kg</string>
+    <string name="name">NAME</string>
+    <string name="accuracy">ACCURACY</string>
+    <string name="damage_class">DAMAGE CLASS</string>
+    <string name="power">POWER</string>
+    <string name="pp">PP</string>
+    <string name="priority">PRIORITY</string>
+    <string name="type">TYPE</string>
+    <string name="default_front_and_back">DEFAULT FRONT AND BACK</string>
+    <string name="shiny_front_and_back">SHINY FRONT AND BACK</string>
+</resources>
