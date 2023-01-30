@@ -2,7 +2,7 @@
 Android mobile app that provides a list of pokemon for each generation. It allows the user to view the traits, moves and illustrations for each pokemon. You can download the APK of the app here: [download link](https://docs.google.com/uc?export=download&id=1DsQSewRhpmZGH0ZNRs7c8MUflPGL7JKh)
 
 ## Application process
-This application was done in Kotlin. It consists of one activity and four fragments. It retrieves information about every pokemon in each generation from the RESTful Pokemon API in [pokeapi.co](https://pokeapi.co). The application uses Retrofit and Moshi to perform HTTP GET requests from the API and parse the JSON responses into Kotlin objects. To load the large amount of pictures efficiently from the API, the Coil library was used.
+The backend is written in Kotlin and the frontend is written in XML. It consists of one activity and four fragments. It retrieves information about every pokemon in each generation from the RESTful Pokemon API in [pokeapi.co](https://pokeapi.co). The application uses Retrofit and Moshi to perform HTTP GET requests from the API and parse the JSON responses into Kotlin objects. To load the large amount of pictures efficiently from the API, the Coil library was used.
 
 ## Demo
 The application starts with the Home tab where the user is shown a list of all pokemon in a generation. Like the image below:
